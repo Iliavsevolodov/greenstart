@@ -205,7 +205,7 @@ h2.display em,h1 em{color:#879b7e;font-weight:800;font-style:normal}
 .faq summary{font-size:13px}
 .faq summary:after{color:#759771}
 .faq details p{color:#6e7b6c}
-.closing{padding:75px 0;background:#f5f6f2;color:#fff;isolation:auto}
+.closing{padding:75px 0;background:#f5f6f2;color:#fff;isolation:isolate}
 .closing-bg{inset:0 22px;max-width:1130px;margin:auto;background:#2d3a2e url('https://images.unsplash.com/photo-1613490493576-7fde63acd811?auto=format&fit=crop&w=1500&q=84') center/cover no-repeat;border-radius:21px}
 .closing:before{inset:0 22px;max-width:1130px;margin:auto;border-radius:21px;background:linear-gradient(90deg,rgba(18,31,19,.9),rgba(18,31,19,.25))}
 .closing .container{padding:55px 48px;position:relative;z-index:1}
